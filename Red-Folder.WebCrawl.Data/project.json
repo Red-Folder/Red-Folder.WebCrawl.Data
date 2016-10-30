@@ -1,10 +1,10 @@
 ﻿{
   "name":  "Red-Folder.WebCrawl.Data",
-  "version": "0.1.*",
+  "version": "0.0.0",
   "description": "Libraries for the models used in the Red-Folder.WebCrawl library",
   "copyright": "Red Folder Consultancy Ltd 2016",
   "title": "Red-Folder.WebCrawl.Data",
-  "authors": "Red Folder Consultancy Ltd",
+  "authors": [ "Red Folder Consultancy Ltd" ],
   "supports": {},
   "dependencies": {
     "Microsoft.NETCore.Portable.Compatibility": "1.0.1",
