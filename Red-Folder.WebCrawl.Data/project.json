@@ -8,6 +8,11 @@
   "supports": {},
 
   "frameworks": {
+    "net40": {
+      "frameworkAssemblies": {
+        "System.Runtime.Serialization": ""
+      }
+    },
     "netstandard1.2": {
       "dependencies": {
         "Microsoft.NETCore.Portable.Compatibility": "1.0.1",

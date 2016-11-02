@@ -17,10 +17,10 @@ namespace Red_Folder.WebCrawl.Data
         public DateTime Timestamp { get; private set; }
 
         [DataMember(Name = "urls")]
-        public IReadOnlyList<Url> Urls { get; private set; }
+        public IList<Url> Urls { get; private set; }
 
         [DataMember(Name = "links")]
-        public IReadOnlyList<Link> Links { get; private set; }
+        public IList<Link> Links { get; private set; }
 
         public CrawlResults(string id, string host, List<Url> urls, List<Link> links)
         {
