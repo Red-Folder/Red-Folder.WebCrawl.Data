@@ -6,7 +6,7 @@
   "title": "Red-Folder.WebCrawl.Data",
   "authors": [ "Red Folder Consultancy Ltd" ],
   "supports": {},
-  
+
   "frameworks": {
     "netstandard1.2": {
       "dependencies": {
@@ -14,7 +14,6 @@
         "NETStandard.Library": "1.6.0",
         "System.Runtime.Serialization.Primitives": "4.3.0-preview1-24530-04"
       }
-    },
-    "net45": {}
+    }
   }
 }
